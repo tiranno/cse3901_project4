@@ -13,6 +13,6 @@ http://cse.osu.edu/directory
 
 -create a template for information
 
--choose what javascript elements we want to make
+-deside what the redesign should look like. (CSS)
 
--will need to have the following file types: html, css, javascript, rby
+-will need to have the following file types: html, css, rby
