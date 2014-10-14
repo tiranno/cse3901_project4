@@ -499,6 +499,13 @@ textarea {
  */
 
 table {
+    border: 1px solid black;
+    width: 50%;
     border-collapse: collapse;
     border-spacing: 0;
+    margin: 0 auto;
+}
+
+th, td  {
+    border: 1px dashed black;
 }
