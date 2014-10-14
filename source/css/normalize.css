@@ -509,3 +509,27 @@ table {
 th, td  {
     border: 1px dashed black;
 }
+
+table.schedule {
+    border: 5px solid black;
+}
+
+th.office {
+    background-color: #CCFFCC;
+}
+
+th.orange {
+    background-color: #FFCC66;
+}
+
+th.rsrg {
+    background-color: #FFFFCC;
+}
+
+th.red {
+    background-color: #FF9999;
+}
+
+th.blue {
+    background-color: #CCECFF;
+}
