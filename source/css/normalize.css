@@ -500,7 +500,6 @@ textarea {
 
 table {
     border: 1px solid black;
-    width: 50%;
     border-collapse: collapse;
     border-spacing: 0;
     margin: 0 auto;
@@ -532,4 +531,36 @@ th.red {
 
 th.blue {
     background-color: #CCECFF;
+}
+
+table#schedule{
+    width: 70%;
+    top: 80px;
+    position: relative;
+    margin-bottom: 45px;
+}
+table#schedule a, table#work a, table#education a{
+    color: #bb0000;
+    text-decoration: none;
+}
+table#work, table#education{
+    width: 70%;
+    top: 60px;
+    position: relative;
+    margin-bottom: 45px;    
+}
+ul{
+    top: 70px;
+    width: 75%;
+    margin: 0 auto;
+    list-style-type: none;
+    position: relative;
+    margin-bottom: 40px;
+}
+ul p{
+    font-weight: bold;
+}
+ul li a{
+    color: #bb0000;
+    text-decoration: none;
 }
