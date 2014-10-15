@@ -1,0 +1,34 @@
+.scarlet {
+	color: #cc0000;
+}
+
+.gray {
+	color: #A9A9A9;
+}
+
+.title {
+	margin-left: 15px;
+	text-decoration: underline;
+}
+
+#midterms {
+	padding-top: 20px;
+}
+.first {
+	color: #32CD32;
+}
+
+.second {
+	margin-left: 25px;
+	color: #FFA500;
+}
+
+.third {
+	margin-left: 50px;
+	color: #0000CD
+}
+.links {
+	border-style: inset;
+	margin-right: 5px;
+	margin-left: 5px;
+}
