@@ -1,16 +1,29 @@
-cse3901_project4
-================
+# CSE 3901 - Project 4: Website Redesign
 
-CSE Department Faculty page re-design. 
+##README for Web Redesign
 
-resources
----------
-http://cse.osu.edu/directory
+This project is a web redesign of an existing faculty members website. The redesign was made to convert existing content into a more pleasing format which is HTML5 and CSS validated. 
 
-to-do
----------
- - [ ] choose webpage to redesign (need site with a good amount of information)
- - [ ] use gem to grab info
- - [ ] create a template for information
- - [ ] deside what the redesign should look like. (CSS)
- - [ ] will need to have the following file types: html, css, rby
+##Requirements
+
+* middleman
+* ruby
+
+To run webserver, inside the project folder run:
+
+bundle exec middleman build
+bundle exec middleman server
+
+It is then hosted on
+
+http://localhost:4567/
+
+## Thanks!
+
+We would like to recognize Wayne D. Heym and his webpage.
+We were able to complete this project with his webpage and content.
+
+##NOTES
+
+The CSE 2231 link on the navbar is an external link to the generic CSE 2231 page used by all professors
+
